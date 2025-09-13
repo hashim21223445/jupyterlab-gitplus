@@ -43,12 +43,12 @@
     "watch:src": "tsc -w"
   },
   "dependencies": {
-    "@jupyterlab/application": "^3.6.7",
-    "@jupyterlab/apputils": "^3.0.9",
-    "@jupyterlab/docregistry": "^3.6.7",
-    "@jupyterlab/fileeditor": "^3.0.11",
-    "@jupyterlab/mainmenu": "^3.0.9",
-    "@jupyterlab/notebook": "^3.0.11",
+    "@jupyterlab/application": "^4.4.7",
+    "@jupyterlab/apputils": "^4.5.7",
+    "@jupyterlab/docregistry": "^4.4.7",
+    "@jupyterlab/fileeditor": "^4.4.7",
+    "@jupyterlab/mainmenu": "^4.4.7",
+    "@jupyterlab/notebook": "^4.4.7",
     "@lumino/application": "^1.13.1",
     "@lumino/disposable": "^1.4.3",
     "axios": "^1.12.0"
